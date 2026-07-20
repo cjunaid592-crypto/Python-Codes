@@ -1,0 +1,12 @@
+#important math
+
+if:
+   print(input(math.sqrt(25)))
+
+else:  
+output= 5.0
+
+
+
+      
+  
